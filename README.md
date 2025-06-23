@@ -1,25 +1,25 @@
 📊 Data Cleaning Task 1 — Netflix Dataset
 
-Project Overview
+**Project Overview**
 
-This project focuses on cleaning and preparing Netflix Movies and TV Shows data obtained from Kaggle. The goal is to make the dataset ready for further analysis and visualization.
+-> This project focuses on cleaning and preparing Netflix Movies and TV Shows data obtained from Kaggle. The goal is to make the dataset ready for further analysis and visualization.
 
-Data Source
+**Data Source**
 
-Dataset: Netflix Movies and TV Shows
+-> Dataset: Netflix Movies and TV Shows
 
-Source: Kaggle
+-> Source: Kaggle
 
-Key Tasks Performed
+**Key Tasks Performed**
 
-Handled missing values by replacing null value Not Available
+-> Handled missing values by replacing null value Not Available
 
-Standardized date formats
+-> Standardized date formats
 
-Removed duplicates
+-> Removed duplicates
 
-Cleaned inconsistent text fields
+-> Cleaned inconsistent text fields
 
-Prepared dataset for future analysis
+-> Prepared dataset for future analysis
 
-Tools Used:- Microsoft Excel
+**Tools Used**:- Microsoft Excel
