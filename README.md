@@ -12,7 +12,7 @@ Source: Kaggle
 
 Key Tasks Performed
 
-Handled missing values
+Handled missing values by replacing null value Not Available
 
 Standardized date formats
 
